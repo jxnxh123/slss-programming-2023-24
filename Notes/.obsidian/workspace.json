@@ -149,8 +149,19 @@
                 "file": "Markdown (Re) introduction.md"
               }
             }
+          },
+          {
+            "id": "a7c842eae9542c03",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8027fa19328ee7d6",
+  "active": "9d575a8f81ddaa82",
   "lastOpenFiles": [
     "Untitled.md",
     "Markdown (Re) introduction.md"
