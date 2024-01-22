@@ -25,6 +25,8 @@ profile = [
 # initialize our top similaity score and their name
 top_sim_score = 0
 top_sim_name = ""
+lowest_sim_name = 
+lowest_sim_score = ""
 
 with open("./data.csv") as f:
     # throw away the header
@@ -55,6 +57,9 @@ with open("./data.csv") as f:
         top_sim_score = current_sim_score
         top_sim_name = current_name
 
+
+
 print("TOP SIMILAR PERSON1!")
 print(f"{top_sim_name}- Score: {top_sim_score}")
 
+# Update the top score if this is highest 

@@ -23,6 +23,18 @@ print (f" It's good to meet you, {user_name}. ")
 
 # Ask the user what their favourte food is
 fave_food = input("What's your favourite food? ")
+time.sleep(2)
+
+# if their favourite food is sushi, reply with yum
+if fave_food == "sushi":
+    print("yum! 🍣")
+    print("I thnk I love sushi!")
+elif fave_food == "burgers" or fave_food == "burgers" :
+    print("🍔")
+    print(" Burgers, I hear are delicous ")
+
+
+
 
 # Make a comment about their favourite food
 # Create a list of possible responses 

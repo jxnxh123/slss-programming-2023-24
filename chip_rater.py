@@ -1,5 +1,6 @@
 # Chip rater
-# Author: ubial
+# Author: jonah 
+
 # 1 November 2023
 
 # Interview people about their
